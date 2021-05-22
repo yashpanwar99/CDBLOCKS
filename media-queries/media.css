@@ -30,7 +30,7 @@
     }
 }
 
-@media (max-width : 500px) and (min-width : 250px){
+@media (max-width : 500px) and (min-width : 249px){
     #sample{
         background-color: rgb(83, 223, 78);
     }
